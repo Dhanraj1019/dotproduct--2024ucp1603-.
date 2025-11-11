@@ -9,3 +9,4 @@ print("second vector is :",a2,"i + ",b2,"j")
 print("product is :",a1*a2+b1*b2)
 
 print("this commit for bug fix in master branch file ")
+print("this is my line for dc file");
